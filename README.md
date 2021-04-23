@@ -1,11 +1,11 @@
-# Simple To-Do App
+# Simple To-Do App 🗒
 
 A simple but nice and functional to-do app.
 
-## Techs
+## Techs 🧑‍💻
 
 React, Hooks, Bootstrap5
 
-### Deploy
+### Deploy 🚀
 
 https://goofy-dijkstra-ed0081.netlify.app/
