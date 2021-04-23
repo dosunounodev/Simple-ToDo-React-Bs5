@@ -9,5 +9,3 @@ React, Hooks, Bootstrap5
 ### Deploy
 
 https://goofy-dijkstra-ed0081.netlify.app/
-
-
